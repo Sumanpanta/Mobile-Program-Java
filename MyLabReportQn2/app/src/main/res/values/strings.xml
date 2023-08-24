@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MixedLayoutApp</string>
+
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="logo">Login</string>
+    <string name="forgot_password">Forget Password</string>
+
+</resources>

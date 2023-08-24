@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLabQn6</string>
+    <string name="enter_two_numbers">Enter two numbers:</string>
+    <string name="result">Result</string>
+</resources>
